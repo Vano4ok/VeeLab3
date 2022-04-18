@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VeeLab3.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:VeeLab3.WebApi.Controllers.CaesarCipherController.Encrypt(VeeLab3.Domain.Dto.CaesarCipherRequestDto)">
+            <summary>
+            Encrypt the string.
+            </summary>
+            <param name="caesarCipherRequestDto">The caesar cipher request.</param>
+            <returns>Encrypted string.</returns>
+        </member>
+        <member name="M:VeeLab3.WebApi.Controllers.CaesarCipherController.Decrypt(VeeLab3.Domain.Dto.CaesarCipherRequestDto)">
+            <summary>
+            Decrypt the string.
+            </summary>
+            <param name="caesarCipherRequestDto">The caesar cipher request.</param>
+            <returns>Decrypted string.</returns>
+        </member>
+    </members>
+</doc>
