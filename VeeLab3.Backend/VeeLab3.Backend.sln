@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeeLab3.WebApi", "VeeLab3.W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeeLab3.Domain", "VeeLab3.Domain\VeeLab3.Domain.csproj", "{3B95C28D-8E85-4A8D-9C98-C7EC77A15EF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeLab3.UnitTests", "VeeLab3.UnitTests\VeeLab3.UnitTests.csproj", "{6FE659D2-2D59-4284-A702-E04CDA2C34EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3B95C28D-8E85-4A8D-9C98-C7EC77A15EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B95C28D-8E85-4A8D-9C98-C7EC77A15EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B95C28D-8E85-4A8D-9C98-C7EC77A15EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE659D2-2D59-4284-A702-E04CDA2C34EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE659D2-2D59-4284-A702-E04CDA2C34EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE659D2-2D59-4284-A702-E04CDA2C34EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE659D2-2D59-4284-A702-E04CDA2C34EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
